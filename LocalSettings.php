@@ -88,7 +88,7 @@ $wgRightsIcon = "";
 $wgDiff3 = "";
 ## Default skin: you can change the default skin. Use the internal symbolic
 ## names, ie 'vector', 'monobook':
-$wgDefaultSkin = "refreshed";
+$wgDefaultSkin = "vector";
 # Enabled skins.
 # The following skins were automatically enabled:
 wfLoadSkins( array( 
